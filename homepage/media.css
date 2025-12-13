@@ -142,9 +142,14 @@
   }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 480px) {
+
+
+.header-logo {
+   margin: 5px 1.5rem;
+}
   .logo img {
-  width: 60px;
+  width: 4rem;
 }
 
 .greeting {
@@ -177,14 +182,33 @@
   }
 
   .promo-title {
-    font-size: 22px;
+    font-size: 18px;
   }
 
   .promo-desc {
-    font-size: 14px;
+    font-size: 12px;
   }
 
   .promo-btn {
     padding: 12px 20px;
   }
+
+
+.plan-status {
+  font-size: 14px;
+}
+
+.plan-percentage {
+  font-size: 20px;
+}
+
+.plan-progress {
+  width: 70px;
+  height: 70px;
+}
+
+#billingdays {
+  font-size: 16px;
+}
+
 }
