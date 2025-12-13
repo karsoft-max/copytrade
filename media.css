@@ -142,7 +142,7 @@
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 520px) {
 .header-logo {
    margin: 5px 1.5rem;
 }
@@ -210,5 +210,6 @@
 }
 
 }
+
 
 
