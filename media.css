@@ -143,12 +143,6 @@
 }
 
 @media (max-width: 480px) {
-  body {
-  background-color: red;
-  color: var(--text-primary);
-  display: flex;
-  min-height: 100vh;
-}
 .header-logo {
    margin: 5px 1.5rem;
 }
@@ -216,4 +210,5 @@
 }
 
 }
+
 
